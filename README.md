@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Backend(via Apna college), Data Structures & Algorithms**
+- 🌱 I’m currently learning **Backend(via Chai With Code), Data Structures & Algorithms**
 
 - 👯 I’m looking to collaborate on **Web Development Projects (React, MERN)**
 
