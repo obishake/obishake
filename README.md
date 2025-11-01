@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects (React, MERN)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/obishake](https://github.com/obishake)
-
 - 💬 Ask me about **React, JavaScript, HTML/CSS, Node.js**
 
 - 📫 How to reach me **abisehk2002tk@gmail.com**
